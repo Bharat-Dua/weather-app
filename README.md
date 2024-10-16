@@ -1,3 +1,31 @@
+# 🌤️ Weather App
+
+A simple and interactive weather application that provides real-time weather information based on user input. Users can search for a city and view the current temperature, humidity, and wind speed along with a corresponding weather icon.
+
+## 🚀 Features
+
+- **Search Functionality**: Easily search for any city to get the latest weather updates.
+- **Dynamic Weather Icons**: Displays weather condition icons based on the current weather (e.g., Clouds, Clear, Rain).
+- **Loading Indicator**: A spinner is shown while fetching data to enhance user experience.
+- **Error Handling**: Friendly error messages guide users to enter valid city names.
+
+## 🛠️ Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Axios**: For making API calls.
+- **OpenWeatherMap API**: Provides weather data for cities worldwide.
+- **CSS**: For styling the application.
+
+![Home Page](/public/images/home.png)
+*Home Page: Search for the city name to get weather details.*
+
+![Weather Details](/public/images/result.png)
+*Weather Details: Displays temperature, humidity, and wind speed.*
+
+![Error  Handling](/public/images/error.png)
+*Error Handling: Friendly error messages guide users to enter valid city names.*
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
